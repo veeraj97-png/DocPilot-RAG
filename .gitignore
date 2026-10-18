@@ -1,0 +1,27 @@
+# API credentials
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Streamlit local settings
+.streamlit/secrets.toml
+
+# Copyrighted source documents
+data/
+*.pdf
+
+# Local agent configuration
+.agents/
+.claude/
